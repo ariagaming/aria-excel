@@ -1,6 +1,6 @@
 # Aria in Excel
 
-Because of hte delays in the real character sheet, we're moving to a temporary solution using Excel. I hope to change this soon 
+Because of the delays in the real character sheet, we're moving to a temporary solution using Excel. I hope to change this soon 
 to something more powerful and web-based.
 
 ## How to use this Document
